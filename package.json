@@ -41,7 +41,12 @@
     "husky": "^4.0.6",
     "jest-prop-type-error": "^1.1.0",
     "lerna": "^3.20.2",
-    "prettier": "^1.19.1"
+    "prettier": "^1.19.1",
+    "@nrwl/workspace": "13.10.2",
+    "@nrwl/cli": "13.10.2",
+    "nx": "13.10.2",
+    "typescript": "4.2.4",
+    "@nrwl/nx-cloud": "latest"
   },
   "husky": {
     "hooks": {
